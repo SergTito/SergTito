@@ -8,18 +8,20 @@
 📚 In my free time, I love reading programming books and exploring new technologies.  
 📫 You can reach me via email or through my social media profiles.
 
-Language and Tools:
-- Java ![Java](https://i.imgur.com/9tQz0tW.png)
-- Kotlin ![Kotlin](https://i.imgur.com/74dVCuM.png)
-- CSS ![CSS](https://i.imgur.com/joOHFpJ.png)
-- HTML ![HTML](https://i.imgur.com/IFMJOrc.png)
-- IntelliJ IDEA ![IntelliJ IDEA](https://i.imgur.com/gvtmklN.png)
-- Maven ![Maven](https://i.imgur.com/5N9yXwF.png)
-- Gradle ![Gradle](https://i.imgur.com/6F8CUW5.png)
-- Swing ![Swing](https://i.imgur.com/ZO5QjtN.png)
-- Spring Boot ![Spring Boot](https://i.imgur.com/iD5K4w1.png)
-- Java EE ![Java EE](https://i.imgur.com/cq8kQ9K.png)
-- JavaFX ![JavaFX](https://i.imgur.com/1QfsDke.png)
+### Languages and Tools:
+
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
+[![Swing](https://img.shields.io/badge/Swing-8EBFEE?logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java EE](https://img.shields.io/badge/Java_EE-007BB6?logo=java-ee&logoColor=white)](https://www.oracle.com/java/technologies/javaee)
+[![JavaFX](https://img.shields.io/badge/JavaFX-00B9AB?logo=java&logoColor=white)](https://openjfx.io/)
+
 
 
 
