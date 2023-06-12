@@ -1,6 +1,6 @@
 ## Hi, I'm Serg !
 
-🌱 I'm a student passionate about Java and Kotlin programming languages.  
+🌱 I'm passionate about Java and Kotlin programming languages.
 👯 I'm interested in software development and aspiring to become a professional in the field.  
 💻 My primary programming languages are Java and Kotlin, and I'm also familiar with HTML and CSS.  
 🔭 Currently, I'm working on enhancing my skills in web and mobile development.  
