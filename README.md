@@ -8,8 +8,11 @@
 📚 In my free time, I love reading programming books and exploring new technologies.  
 📫 You can reach me via email or through my social media profiles.
 
-### LeetCode
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=<sergeytitanyan>&theme=dark)](https://github.com/kautukkundan/LeetCode-Stats)
+### LeetCode && CodeWars
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sergeytitanyan&theme=dark)](https://github.com/kautukkundan/LeetCode-Stats)  
+[![CodeWars stats](https://www.codewars.com/users/Serg_Tito/badges/large)](https://www.codewars.com/users/Serg_Tito)
+
+
 
 ### Languages and Tools:
 
