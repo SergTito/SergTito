@@ -8,6 +8,9 @@
 📚 In my free time, I love reading programming books and exploring new technologies.  
 📫 You can reach me via email or through my social media profiles.
 
+### LeetCode
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=<sergeytitanyan>&theme=dark)](https://github.com/kautukkundan/LeetCode-Stats)
+
 ### Languages and Tools:
 
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
